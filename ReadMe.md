@@ -27,5 +27,5 @@ This concludes the analysis for the senior design project our team displayed at 
 - **Warning**: Do not run the API call too frequently as this may cause null values in the dataset for the USA row, rendering the analysis void.
 
 ## Author
-[Your Name/Handle]
+Aryan Mainkar
 
