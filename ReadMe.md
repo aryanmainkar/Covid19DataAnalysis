@@ -1,7 +1,8 @@
 # COVID-19 Data Analysis Script
 
 ## Overview
-This script fetches COVID-19 data from a RapidAPI endpoint, converts it into a Pandas DataFrame, and then saves it as a CSV file. The data includes information about COVID-19 cases globally.
+This script fetches COVID-19 data from a RapidAPI endpoint, converts it into a Pandas DataFrame, and then saves it as a CSV file. The data includes information about COVID-19 cases globally. 
+This concludes the analysis for the senior design project our team displayed at UTA.
 
 ## Prerequisites
 - Python 3
